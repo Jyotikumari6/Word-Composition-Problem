@@ -4,7 +4,7 @@
 
 2) (Extract in case of zip file)
 
-3) Then change the directory of Input_01 and Input_02 text file in mpledgetechnoprob.java file and run in any Java IDE or in command prompt using below commands:
+3) Then change the directory of Input_01 and Input_02 text file in impledgetechnoprob.java file and run in any Java IDE or in command prompt using below commands:
 
     * javac  impledgetechnoprob.java 
 
