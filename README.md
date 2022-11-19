@@ -20,4 +20,8 @@
 
 * A Trie is an advanced data structure that is sometimes also known as prefix tree or digital tree. It is a tree that stores the data in an ordered and efficient way. We generally use trie's to store strings.
 
-First,
+* First,  path of the text files are defined
+* Second, Initialization of tree node is done.
+* Then, adding word and searching word by traversing each characters in String is performed.
+* The traversing is done until a complete word is found from the tree.
+* Then, it recursivley checks whether the remaining part is also a word OR a compound word.
